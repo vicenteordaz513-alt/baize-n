@@ -1,3 +1,4 @@
+#vicente
 # Pedir el monto de la compra
 compra = float(input("Ingresa el monto de la compra: "))
 
