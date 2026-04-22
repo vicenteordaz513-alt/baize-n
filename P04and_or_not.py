@@ -1,3 +1,4 @@
+#vicente
 # Pedir datos
 edad = int(input("Ingresa tu edad: "))
 tiene_ine = input("¿Tienes credencial de elector? (sí/no): ").lower()
