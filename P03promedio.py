@@ -1,3 +1,4 @@
+#vicente
 # Pedir tres calificaciones
 c1 = float(input("Ingresa la primera calificación: "))
 c2 = float(input("Ingresa la segunda calificación: "))
